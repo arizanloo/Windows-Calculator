@@ -1,4 +1,4 @@
-#Windows Forms Calculator
+# Windows Forms Calculator
 This is simple windows forms calculator with c#.
 Some features include:
 	* Simple Math Operators
@@ -6,10 +6,10 @@ Some features include:
 	* Sine
 	* Tangent
 	* PI
-##Structure
+## Structure
 All features such as Cosine, Sine, Tangent and PI calculated by `Math` class.
-##Software
+## Software
 This project was created using Microsoft Visual Studio 2010 - .NET Framework 4.
-##Extras
+## Extras
 If you have any idea that can improve project or is there any bugs that you've solved,
 submit it in Pull Requests or email me.  
