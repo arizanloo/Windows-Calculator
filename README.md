@@ -1,5 +1,5 @@
 # Windows Forms Calculator
-This is simple windows forms calculator with c#.
+This is a simple windows forms calculator with c#.
 Some features include:
 * Simple Math Operators
 * Cosine
