@@ -7,6 +7,8 @@ Some features include:
 * Sine
 * Tangent
 * PI
+
+![Calculator](https://github.com/arizanloo/Windows-Calculator/blob/main/Calculator.png)
 ## Structure
 All features such as Cosine, Sine, Tangent and PI calculated by `Math` class.
 ## Software
