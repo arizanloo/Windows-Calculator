@@ -1,0 +1,17 @@
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\bin\Debug\003_calculator.exe
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\bin\Debug\003_calculator.pdb
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\_003_calculator.Form1.resources
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\_003_calculator.Properties.Resources.resources
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.csproj.GenerateResource.Cache
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.exe
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.pdb
+C:\Users\Izanloo\Desktop\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.csprojResolveAssemblyReference.cache
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.exe
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\003_calculator.pdb
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\bin\Debug\003_calculator.exe
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\bin\Debug\003_calculator.pdb
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\_003_calculator.Form1.resources
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\_003_calculator.Properties.Resources.resources
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Alireza Projects\c#(a)\003_calculator\003_calculator\003_calculator\obj\x86\Debug\GenerateResource.write.1.tlog
